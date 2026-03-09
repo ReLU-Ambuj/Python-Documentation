@@ -1,0 +1,11 @@
+# Problem 15: Sliding Window Challenge 15
+
+## Problem Statement
+Solve standard Sliding Window problem #15 on Leetcode/platform.
+
+## Solution Outline
+- Apply Variable or Fixed window pattern based on constraint (k vs variable length).
+
+## Complexity
+- Time: O(N)
+- Space: O(1) or O(K)
